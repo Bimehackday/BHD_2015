@@ -1,1 +1,2 @@
-# bimehackday
+Bienvenidos al Bimehackday 2015
+
